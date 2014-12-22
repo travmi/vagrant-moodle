@@ -11,7 +11,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     moodle.vm.hostname = "moodle.local.lan"
     moodle.vm.network :private_network, ip: "172.16.46.5"
     moodle.vm.provider "virtualbox" do |vb|
-     vb.customize ["modifyvm", :id, "--memory", "1024"]
+     vb.customize ["modifyvm", :id, "--memory", "2048"]
     end
   end
 	

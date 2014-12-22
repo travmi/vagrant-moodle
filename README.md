@@ -1,6 +1,7 @@
 #Vagrant Moodle Environment
 
 This environment spins up a Vagrant box with the following installed/configured.
+This sets up the environment for running Moodle.
 
 - Percona MySQL 5.5.x
 - PostgreSQL 9.4
