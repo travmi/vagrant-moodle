@@ -34,5 +34,8 @@ Be sure to add Vagrant to your environment path after you download it.
 # vagrant up
 ```
 
+You will need to add the moodle code to /var/www/local/moodle.local.lan/htdocs.
+Moodledata directory is already added with correct permissions.
+
 ##Development
 This Vagrant box was created using Packer. The repository for this build can be found [here](https://github.com/travmi/packer-moodle.git)
