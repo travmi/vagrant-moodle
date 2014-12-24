@@ -62,6 +62,7 @@ You will need to add the moodle code to /var/www/local/moodle.local.lan/htdocs.
 Moodledata directory is already added with correct permissions.
 
 To get a Broadway site installed you will need to follow documentation [here](http://confluence.mpi.local/display/projects/Broadway+installation+documentation)
+
 To install a generic Moodle site follow documentation [here](https://docs.moodle.org/28/en/Installing_Moodle)
 
 ###NGINX Configuration
